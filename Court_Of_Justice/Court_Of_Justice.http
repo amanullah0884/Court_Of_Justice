@@ -1,0 +1,6 @@
+@Court_Of_Justice_HostAddress = http://localhost:5122
+
+GET {{Court_Of_Justice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
